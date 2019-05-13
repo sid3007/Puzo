@@ -1,0 +1,22 @@
+{
+  "name": "pascalv4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11",
+    "pegjs": "^0.10.0",
+    "request": "^2.88.0",
+    "xml2js": "^0.4.19",
+    "xml2json": "^0.11.2"
+  }
+}
